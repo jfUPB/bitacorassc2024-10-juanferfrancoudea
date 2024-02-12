@@ -1,35 +1,30 @@
 # Bitácora de aprendizaje
 
 ```
-## SEMANA 2
+## SEMANA X
 
-### Sesión 1: dia_semana mes dia_mes
+### Sesión 1 fecha
 
 #### Micro-sesión 1: apertura.
 
 #### Micro-sesión 2
- 
 
 #### Micro-sesión 3
 
-
 #### Micro-sesión 4: cierre 
 
-### Sesión 2: miércoles febrero 7
+### Sesión 2 fecha
 
 #### Micro-sesión 1: apertura.
 
-
 #### Micro-sesión 2
- 
 
 #### Micro-sesión 3
-
 
 #### Micro-sesión 4: cierre 
 
 
-### Sesión 3: dia_semana mes dia_mes
+### Sesión 3 fecha
 
 #### Micro-sesión 1: apertura.
 
@@ -40,6 +35,7 @@
 #### Micro-sesión 4
 
 #### Micro-sesión 5: cierre 
+
 ```
 
 ## SEMANA 2
