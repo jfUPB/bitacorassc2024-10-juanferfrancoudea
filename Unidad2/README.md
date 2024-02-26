@@ -95,10 +95,10 @@
 
 ## Documentación Final
 
-# Etapa 1
+### Etapa 1
 
-## Explicación
+#### Explicación
 
-## Pruebas parciales
+#### Pruebas parciales
 
-## Pruebas de integración
+#### Pruebas de integración
