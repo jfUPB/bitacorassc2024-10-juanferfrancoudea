@@ -93,78 +93,12 @@
 #### Micro-sesión 4
 #### Micro-sesión 5
 
-### Documentación Final
+## Documentación Final
 
-## Etapa 1
+# Etapa 1
 
-### Explicación
+## Explicación
 
-### Pruebas parciales
+## Pruebas parciales
 
-### Pruebas de integración
-
-## Etapa 2
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 3
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 4
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 5
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 6
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 7
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 8
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-## Etapa 9
-
-### Explicación
-
-### Pruebas parciales
-
-### Pruebas de integración
-
-
+## Pruebas de integración
