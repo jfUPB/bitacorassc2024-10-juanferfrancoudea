@@ -12,9 +12,8 @@
 ### Muestro y explico mi implementación del encapsulamiento.
 ### Muestro y explico mi implementación de la herencia.
 ### Muestro y explico mi implementación del polimorfismo.
-### ¿Cómo implementé cada etapa, qué investigaste y que ensayos realicé para entender el concepto implementado?
-### Muestra cómo probaste la funcionalidad de cada etapa?
-### Muestra cómo probaste la integración de la nueva etapa con las anteriores
+### Muestra cómo probaste la funcionalidad de cada característica de la aplicación,
+### Muestra cómo probaste la integración de cada característica con las anteriores.
 
 ## Consejos para el uso efectivo de la bitácora
 
