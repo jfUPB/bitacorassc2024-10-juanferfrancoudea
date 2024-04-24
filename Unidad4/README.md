@@ -30,7 +30,7 @@ usando la siguiente plantilla:
 ``` markdown
 > 1. ¿Qué tipo de actividad estás evidenciando?
 > 2. Describe la actividad y cuál es el propósito de esta y/o la pregunta que quieres investigar.
-> 3. Todas las actividades debes estar soportadas por código fuente. Vas a inidicar el commit que tiene
+> 3. Todas las actividades deben estar soportadas por código fuente. Vas a inidicar el commit que tiene
 >    el resultado final de la actividad.
 > 4. ¿Cuáles es el resultado de la actividad?
 > 5. ¿Qué aprendiste de la actividad?
