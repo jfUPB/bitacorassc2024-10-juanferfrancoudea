@@ -14,7 +14,7 @@
 
 > Explicas cómo solucionaste cada requisito de la aplicación.
 
-### Resultado de aprendizaje 2(RAE2)
+### Resultado de aprendizaje 2 (RAE2)
 
 > Muestras cómo probaste cada requisito por separado.
 
