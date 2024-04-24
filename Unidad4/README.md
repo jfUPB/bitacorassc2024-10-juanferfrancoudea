@@ -38,7 +38,8 @@ usando la siguiente plantilla:
 
 > :warning: **MUY IMPORTANTE**
 > 
-> Cada sesión debe tener al menos dos actividades para ganar los puntos de la sesión.
+> Cada sesión debe tener al menos dos actividades para ganar los puntos de la sesión. La actividad debe estar completa,
+> es decir, debe tener los 5 puntos de la plantilla realizados correctamente.
 
 ### Semana 14
 
